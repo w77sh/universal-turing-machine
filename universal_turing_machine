@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# coding=utf-8
-
 from src.universal_turing_machine import parse_arguments, TuringMachine
 import json
 
